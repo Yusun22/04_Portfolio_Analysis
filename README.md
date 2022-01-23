@@ -70,11 +70,11 @@ The 21-Day Rolling Standard Deviations of the portfolios' and the market's were 
 
 ![21 Rolling SD](Images/Rolling_SD.png)
 
-- Based on the annualized standard deviations, no portfolios poses more risk than the S&P 500's as it has the hightst annualized SD of 18.33%.
+- **Based on the annualized standard deviations**, no portfolios poses more risk than the S&P 500's as it has the hightst annualized SD of 18.33%.
 
-- Based on the rolling metrics, the risk of each portfolio somewhat mirrors that of the S&P 500's. For instance, all but Tiger Global Management showed a spike in risk in 2019 and all of them did in 2020. But the Tiger Global Management portfolio seems to differ the most from all others, including the S&P 500.
+- **Based on the rolling metrics**, the risk of each portfolio somewhat mirrors that of the S&P 500's. For instance, all but Tiger Global Management showed a spike in risk in 2019 and all of them did in 2020. But the Tiger Global Management portfolio seems to differ the most from all others, including the S&P 500.
 
-- Based on the rolling standard deviations of only the four fund portfolios, Berkshire Hathaway poses the most risk when compared to the others as it had the highest 21-day rolling standard deviations from the end of 2016 to most of 2020. From 2015 towards the end of 2016, it still posed a lot of risk but was similar to that of Soros'.
+- **Based on the rolling standard deviations of only the four fund portfolios**, Berkshire Hathaway poses the most risk when compared to the others as it had the highest 21-day rolling standard deviations from the end of 2016 to most of 2020. From 2015 towards the end of 2016, it still posed a lot of risk but was similar to that of Soros'.
 
 Then, the overall risk-return profile was analyzed by calculating the Sharpe ratios of each portfolio and S&P 500. This was calculated by finding the annualized average return divided by the annualized standard deviation.
 
