@@ -92,11 +92,11 @@ Below is a visualization of the results, which is that Tiger and Berkshire Hatha
 
 Lastly, we needed to evaluate how the portfolios react relative to the broader market. Based on the analysis so far, we have chosen to further analyze Berkshire Hathaway and Tiger Global Management by looking at their beta values.
 
-The beta for each portfolio was calculated by dividing the covariance of each portfolio by the variance of the S&P 500. Below are the plotted results in the timeframe of 2015-2020.
+The beta for each portfolio was calculated by dividing the covariance of each portfolio by the variance of the S&P 500.
 
-![BH Beta](Images/BH_Rolling_B.png)
+- Average beta value of Berkshire Hathaway is 0.22
 
-![Tiger_Beta](Images/Tiger_Rolling_B.png)
+- Average beta value of Tiger Global Management is 0.03
 
 **In conclusion**, Berkshire Hathaway seems more sensitive to the movements in the S&P 500 because it has a higher average Beta value (0.22) than Tiger Global Management's (0.03). This imeans Bershire Hathaway's movements are more correlated to those of the market's.
 
